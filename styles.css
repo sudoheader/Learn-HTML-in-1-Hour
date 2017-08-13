@@ -1,20 +1,11 @@
-h1 {
-    color: orange;
-    background-color: black;
-    font-family: courier;
+#header1 {
+    font-family: serif;
 }
 
-p {
-    color: blue;
-    background-color: orange;
-    font-family: impact;
+#header2 {
+    font-family: sans-serif;
 }
 
-#secondHeader {
-    background-color: maroon;
-}
-
-#secondParagraph {
-    font-family: Arial;
-    font-size: 30px;
+#header3 {
+    font-family: monospace;
 }
