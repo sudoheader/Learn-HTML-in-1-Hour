@@ -1,5 +1,6 @@
 table {
     background-color: orange;
+    border: 6px dashed black;
 }
 
 td, th, p {
@@ -9,4 +10,9 @@ td, th, p {
 
 th {
     background-color: black;
+    border: 3px dashed maroon;
+}
+
+#changed {
+    border: 10px solid yellow;
 }
