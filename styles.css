@@ -1,15 +1,12 @@
-a:link {
-    color: orange;
+table {
+    background-color: orange;
 }
 
-a:hover {
-    font-family: courier;
+td, th, p {
+    background-color: blue;
+    color: red;
 }
 
-a:active {
-    font-size: 50px;
-}
-
-a:visited {
-    font-family: impact;
+th {
+    background-color: black;
 }
