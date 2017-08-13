@@ -1,12 +1,15 @@
-#header1 {
-    font-family: serif;
-    color: rgb(50, 50, 50);
+a:link {
+    color: orange;
 }
 
-#header2 {
-    font-family: sans-serif;
+a:hover {
+    font-family: courier;
 }
 
-#header3 {
-    font-family: monospace;
+a:active {
+    font-size: 50px;
+}
+
+a:visited {
+    font-family: impact;
 }
