@@ -1,18 +1,11 @@
-table {
-    background-color: orange;
-    border: 6px dashed black;
+ul {
+    list-style-type: square;
 }
 
-td, th, p {
-    background-color: blue;
-    color: red;
+ol {
+    list-style-type: upper-roman;
 }
 
-th {
-    background-color: black;
-    border: 3px dashed maroon;
-}
-
-#changed {
-    border: 10px solid yellow;
+#different {
+    list-style-type: lower-latin;
 }
