@@ -1,9 +1,3 @@
-body {
-    background-color: orange;
-    font-family: impact;
-    font-size: 30px;
-}
-
-h1 {
-    color: maroon;
+p {
+    color: red;
 }
