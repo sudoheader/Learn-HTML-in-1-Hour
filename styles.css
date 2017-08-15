@@ -1,11 +1,10 @@
-ul {
-    list-style-type: square;
+#header1 {
+    color: orange;
+    font-family: courier;
 }
 
-ol {
-    list-style-type: upper-roman;
-}
-
-#different {
-    list-style-type: lower-latin;
+.change {
+    color: maroon;
+    font-family: impact;
+    font-size: 40px;
 }
