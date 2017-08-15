@@ -1,10 +1,9 @@
-#header1 {
-    color: orange;
-    font-family: courier;
+body {
+    background-color: orange;
+    font-family: impact;
+    font-size: 30px;
 }
 
-.change {
+h1 {
     color: maroon;
-    font-family: impact;
-    font-size: 40px;
 }
