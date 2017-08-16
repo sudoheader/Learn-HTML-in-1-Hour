@@ -1,9 +1,4 @@
-function functionOne() {
-    alert("One");
-}
-function functionTwo() {
-    alert("Two");
-}
-function functionThree() {
-    alert("Three");
+function changeTheText() {
+    //change the paragraph text
+    document.getElementById('paragraphText').innerHTML = 'We changed the text';
 }
