@@ -1,4 +1,7 @@
+var variableNumber = 0;
+var variableName = 'John';
+
 function changeTheText() {
-    //change the paragraph text
-    document.getElementById('paragraphText').innerHTML = 'We changed the text';
+    // Change the paragraph text
+    document.getElementById('paragraphText').innerHTML = variableNumber;
 }
