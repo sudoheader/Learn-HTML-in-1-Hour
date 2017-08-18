@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var variableNumber = 2;
 var secondNumber = 2;
 var variableName = 'John ';
@@ -8,11 +7,3 @@ function changeTheText() {
     // Change the paragraph text
     document.getElementById('paragraphText').innerHTML = variableNumber * 3;
 }
-=======
-var variableNumber = 0;
-var variableName = 'John';
-
-function changeTheText() {
-    // Change the paragraph text
-    document.getElementById('paragraphText').innerHTML = variableNumber;
->>>>>>> a823b70b5d060d6bf75fd05aae336f723459b975
