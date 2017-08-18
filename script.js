@@ -1,7 +1,7 @@
 var variableNumber = 2;
 var secondNumber = 2;
 var variableName = 'John ';
-var seconString = 'Awesome';
+var secondString = 'Awesome';
 
 function changeTheText() {
     // Change the paragraph text
