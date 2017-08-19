@@ -5,5 +5,6 @@ var secondString = 'Awesome';
 
 function changeTheText() {
     // Change the paragraph text
-    document.getElementById('paragraphText').innerHTML = variableNumber * 3;
+    var changeTextVariable = document.getElementById('changeUserText').value;
+    document.getElementById('paragraphText').innerHTML = changeTextVariable;
 }
