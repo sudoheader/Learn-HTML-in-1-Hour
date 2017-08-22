@@ -7,7 +7,7 @@ function changeTheText() {
         document.getElementById('paragraphText').innerHTML = changeTextVariable;
     }
     else {
-        var changeTextVariable = "Else statem fired";
-        document.getElementById('paragraphText').innerHTML = changeTextVariable;
+        var changeTextVariable1 = "Else statem fired";
+        document.getElementById('paragraphText').innerHTML = changeTextVariable1;
     }
 }
