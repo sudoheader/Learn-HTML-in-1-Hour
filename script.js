@@ -10,4 +10,7 @@ $(document).ready(function() {
     $(".otherbutton").click(function() {
         $(".fadeouttag").fadeIn(3000);
     });
+    $("#togglebutton").click(function() {
+        $(".fadeouttag").toggle();
+    });
 });
