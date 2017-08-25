@@ -9,4 +9,7 @@ $(document).ready(function() {
     $("#button3").click(function() {
         $("div").animate({height: '200px', width: '200px'}, "fast");
     });
+    $("#button4").click(function() {
+        $("div").animate({height: '75px', width: '75px'}, "fast");
+    });
 });
