@@ -8,7 +8,7 @@ $(document).ready(function() {
 
     });
     $(".otherbutton").click(function() {
-        $(".fadeouttag").fadeIn(3000);
+        $(".fadeouttag").fadeIn(1000);
     });
     $("#togglebutton").click(function() {
         $(".fadeouttag").toggle();
