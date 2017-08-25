@@ -7,9 +7,9 @@ $(document).ready(function() {
         $("div").animate({left: '0px'}, "fast");
     });
     $("#button3").click(function() {
-        $("div").animate({height: '200px', width: '200px'}, "fast");
+        $("div").animate({height: '+=20px', width: '+=20px'}, "fast");
     });
     $("#button4").click(function() {
-        $("div").animate({height: '75px', width: '75px'}, "fast");
+        $("div").animate({height: '-=10px', width: '-=10px'}, "fast");
     });
 });
