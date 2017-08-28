@@ -1,9 +1,4 @@
-$(document).ready(function() {
-    //(HTML object). action (do something)
-    $("#button1").click(function() {
-        $("#orangediv").animate({height: '250px'});
-    });
-    $("#button2").click(function() {
-        $("#bluediv").animate({height: '250px'});
-    });
-});
+var aCanvas = document.getElementById("aCanvas"));
+var context = aCanvas.getContext("2d");
+context.fillStyle = "red";
+context.fillRect(10,10,100,100);
